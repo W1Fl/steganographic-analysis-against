@@ -1,0 +1,9 @@
+size=32,32
+learnning_rate=0.00005
+batch_size=50*2
+epoch=201
+keep_prob=0.5
+m=100*100*3
+n=50
+step=50
+datasetfromfile=False
